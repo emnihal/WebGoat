@@ -21,7 +21,7 @@ pipeline {
 
     post {
         always {
-            mail to: "nihalcyberdude7@gmail.com",
+            mail to: "nihalcyberdude@gmail.com",
             subject: "Test email",
             body: "Test"
         }
