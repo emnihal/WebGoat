@@ -18,4 +18,12 @@ pipeline {
             }
         }
     }
+
+    post {
+        always {
+            mail to: "nihalcyberdude7@gmail.com",
+            subject: "Test email",
+            body: "Test"
+        }
+    }
 }
