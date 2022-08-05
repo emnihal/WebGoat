@@ -21,9 +21,9 @@ pipeline {
 
     post {
         always {
-            mail to: "nihalcyberdude@gmail.com",
-            subject: "Test email",
-            body: "Test"
+            emailext body: 'Check console output at $BUILD_URL to view the results.', 
+                    to: "nihalcyberdude@gmail.com", 
+                    subject: 'Unstable build in Jenkins'
         }
     }
 }
