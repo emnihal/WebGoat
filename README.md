@@ -1,5 +1,10 @@
 # WebGoat 8: A deliberately insecure Web Application. Talisman-Test 3 - Testing Talisman pre-push - 1
 
+AwsSecretKey="LKLSDJFKJKJ878973489089034KJDKLFJLKDJFKJK"
+
+username="admin"
+password="admin@123"
+
 [![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
 [![java-jdk](https://img.shields.io/badge/java%20jdk-17-green.svg)](https://jdk.java.net/)
 [![OWASP Labs](https://img.shields.io/badge/OWASP-Lab%20project-f7b73c.svg)](https://owasp.org/projects/)
@@ -118,3 +123,4 @@ docker run -d -p 8080:8080 -p 9090:9090 -e TZ=Europe/Amsterdam -e EXCLUDE_CATEGO
 ```
 1
 2
+4
