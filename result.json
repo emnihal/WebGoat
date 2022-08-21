@@ -1,0 +1,20 @@
+[
+ {
+  "Description": "AWS",
+  "StartLine": 1,
+  "EndLine": 1,
+  "StartColumn": 10,
+  "EndColumn": 29,
+  "Match": "AKIAJQLKPGHXRH2AH5QA",
+  "Secret": "AKIAJQLKPGHXRH2AH5QA",
+  "File": "api-key.txt",
+  "Commit": "d39086556d81c1d36baf8fe076c88404240e632b",
+  "Entropy": 3.4841838,
+  "Author": "Em Nihal",
+  "Email": "nihalcyberdude2@gmail.com",
+  "Date": "2022-08-21T17:14:13Z",
+  "Message": "Update api key",
+  "Tags": [],
+  "RuleID": "aws-access-token"
+ }
+]
