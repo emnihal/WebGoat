@@ -1,6 +1,8 @@
 # WebGoat 8: A deliberately insecure Web Application. Talisman-Test 3 - Testing Talisman pre-push - 1
 
-AwsSecretKey="LKLSDJFKJKJ878973489089034KJDKLFJLKDJFKJK"
+AwsSecretKey="LKLSDJFKJKJ878973489089034KJDKLFJLKDJFKJKKKK"
+
+Added via nihal-dev branch
 
 username="admin"
 password="admin@123"
