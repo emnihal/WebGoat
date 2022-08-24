@@ -128,3 +128,4 @@ docker run -d -p 8080:8080 -p 9090:9090 -e TZ=Europe/Amsterdam -e EXCLUDE_CATEGO
 4
 1
 password=thisismypassword
+DEBUG=True
